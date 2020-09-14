@@ -1,0 +1,4 @@
+Step 1 : Create your own telegram bot
+Download Telegram from App Store or Play Store. Create an account for Telegram. After the account created, search For Bot Father, Press on it and click start.
+Type /newbot to create a newbot. Followed by choose a name & username for your bot. Then one token will be generated you are ready to go. Copy down your token and move to step 2. 
+Install telepot
